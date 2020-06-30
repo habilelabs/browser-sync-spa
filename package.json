@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "connect-history-api-fallback": "^1.1.0",
-    "opt-merger": "^1.1.0"
+    "opt-merger": "git+https://github.com/habilelabs/opt-merger.git"
   }
 }
