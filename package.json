@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/shakyShane/browser-sync-spa",
   "devDependencies": {
-    "browser-sync": "^1.7.0",
+    "browser-sync": "git+https://github.com/habilelabs/browser-sync.git",
     "chai": "^1.10.0",
     "mocha": "^2.0.1",
     "supertest": "^0.15.0"
